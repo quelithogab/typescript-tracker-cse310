@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "id": 1790660175023,
+      "title": "Finish this module",
+      "completed": true
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1790660311426,
+      "description": "35.35 Food",
+      "amount": 40.5,
+      "category": "Food"
+    }
+  ]
+}
