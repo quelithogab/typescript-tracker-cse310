@@ -3,7 +3,7 @@
     {
       "id": 1790660175023,
       "title": "Finish this module",
-      "completed": true
+      "completed": false
     }
   ],
   "expenses": [
@@ -13,5 +13,6 @@
       "amount": 40.5,
       "category": "Food"
     }
+    
   ]
 }
