@@ -4,6 +4,11 @@
       "id": 1790660175023,
       "title": "Finish this module",
       "completed": false
+    },
+    {
+      "id": 1791042433381,
+      "title": "Finish CSE 310 Module 2",
+      "completed": true
     }
   ],
   "expenses": [
@@ -12,7 +17,18 @@
       "description": "35.35 Food",
       "amount": 40.5,
       "category": "Food"
+    },
+    {
+      "id": 1791042663553,
+      "description": "Chocolate",
+      "amount": 5.5,
+      "category": "Food"
+    },
+    {
+      "id": 1791042701997,
+      "description": "Textbook",
+      "amount": 50.5,
+      "category": "Education"
     }
-    
   ]
 }
